@@ -1,4 +1,4 @@
-![Banner](./banner.png)
+![Banner](./banner1.png)
 # Привіт, я Володимир! 👋
 
 ### 👨‍💻 Про мене
